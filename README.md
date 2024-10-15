@@ -1,2 +1,2 @@
-# progintro-hw0-pavlosth
+# progintro/hw0-pavlosth
 Homework 0 
